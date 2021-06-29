@@ -9,8 +9,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.Map;
 
 /**
- * @Author: 袁家雷
- * @Mail: yuanjialei@ibiandan.cn
+ * @Author: yuanjialei
  * @Date: 2021-06-28 16:08
  * @Version: 1.0
  * @Description: inflixdb Test controller

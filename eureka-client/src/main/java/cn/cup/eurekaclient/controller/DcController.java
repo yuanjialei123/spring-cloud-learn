@@ -5,8 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @Author: 袁家雷
- * @Mail: yuanjialei@ibiandan.cn
+ * @Author: yuanjialei
  * @Date: 2021-06-25 15:12
  * @Version: 1.0
  * @Description: 打印服务实例信息

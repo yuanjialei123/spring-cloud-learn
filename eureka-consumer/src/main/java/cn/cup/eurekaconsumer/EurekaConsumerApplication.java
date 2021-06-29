@@ -7,8 +7,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @Author: 袁家雷
- * @Mail: yuanjialei@ibiandan.cn
+ * @Author: yuanjialei
  * @Date: 2021-06-26 15:28
  * @Version: 1.0
  * @Description: eureka消费者

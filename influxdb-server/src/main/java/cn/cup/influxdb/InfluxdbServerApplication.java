@@ -5,8 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
- * @Author: 袁家雷
- * @Mail: yuanjialei@ibiandan.cn
+ * @Author: yuanjialei
  * @Date: 2021-06-28 13:54
  * @Version: 1.0
  * @Description: InfluxDb服务项目主类

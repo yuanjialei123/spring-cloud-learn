@@ -3,8 +3,7 @@ package cn.cup.influxdb.service;
 import com.influxdb.client.write.Point;
 
 /**
- * @Author: 袁家雷
- * @Mail: yuanjialei@ibiandan.cn
+ * @Author: yuanjialei
  * @Date: 2021-06-28 14:42
  * @Version: 1.0
  * @Description: InfluxDB Service
